@@ -55,14 +55,14 @@ export default class Header extends Component {
                                 <h3> I am a {resumeData.role} <br/>
                                   <a className="smoothscroll" href="#about">About me</a>.
               </h3>
-                                <div className="s-hero__content-social">
+                                {/* <div className="s-hero__content-social">
                                     <a href="#0"><i className="fab fa-facebook-square" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-twitter" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-instagram" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-dribbble" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-behance" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-linkedin" aria-hidden="true" /></a>
-                                </div>
+                                </div> */}
                             </div> {/* end s-hero__content-about */}
                         </div>
                     </div> {/* s-hero__content */}
