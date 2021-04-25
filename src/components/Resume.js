@@ -39,7 +39,7 @@ through deployment.
                         <div className="column large-9 tab-12">
                             <div className="resume-block">
                                 <div className="resume-block__header">
-                                    <h4 className="h3">Dehradun Institue of Technology, Dehradun</h4>
+                                    <h4 className="h3">Dehradun Institute of Technology, Dehradun</h4>
                                     <p className="resume-block__header-meta">
                                         <span>Bachelor's in Computer Science</span>
                                         <span className="resume-block__header-date">

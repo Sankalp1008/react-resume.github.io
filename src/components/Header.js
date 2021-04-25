@@ -52,7 +52,7 @@ export default class Header extends Component {
                         <div className="column">
                             <div className="s-hero__content-about">
                                 <h1> I'm {resumeData.name}.</h1>
-                                <h3> I am a {resumeData.role} <br/>
+                                <h3> I am an aspiring {resumeData.role} <br/>
                                   <a className="smoothscroll" href="#about">About me</a>.
               </h3>
                                 {/* <div className="s-hero__content-social">
