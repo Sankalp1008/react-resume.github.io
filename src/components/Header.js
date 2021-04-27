@@ -17,6 +17,7 @@ export default class Header extends Component {
                                 {/* <li><a className="smoothscroll" href="#portfolio">Works</a></li> */}
                                 {/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
                                 <li><a className="smoothscroll" href="#contact">Contact</a></li>
+                                <li><a class="smoothscroll" href="#portfolio">Projects</a></li>
                             </ul>
                             </div>
 
@@ -52,7 +53,7 @@ export default class Header extends Component {
                         <div className="column">
                             <div className="s-hero__content-about">
                                 <h1> I'm {resumeData.name}.</h1>
-                                <h3> I am an aspiring {resumeData.role} <br/>
+                                <h3> I am a {resumeData.role} <br/>
                                   <a className="smoothscroll" href="#about">About me</a>.
               </h3>
                                 {/* <div className="s-hero__content-social">

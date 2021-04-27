@@ -6,6 +6,7 @@ import Resume from './components/Resume';
 import Contact from './components/Contact';
 
 import resumeData from './resumeData';
+import Portfolio from './components/Portfolio';
 function App() {
 
   return (
@@ -30,6 +31,7 @@ function App() {
     
     <About resumeData={resumeData}/>
     <Resume resumeData={resumeData}/>
+    <Portfolio/>
     <Contact resumeData={resumeData}/>
     {/* <Footer resumeData={resumeData}/> */}
     </div>

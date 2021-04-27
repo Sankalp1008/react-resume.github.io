@@ -4110,7 +4110,7 @@ button.btn--pill {
 
 .folio-item__thumb {
   display: block;
-  background-color: white;
+  /* background-color: white; */
   position: relative;
   overflow: hidden;
 }
@@ -4165,6 +4165,9 @@ button.btn--pill {
   transition: all, 0.5s;
 }
 
+.ey {
+  border-radius: 10px;
+}
 /* on hover
  *---------------------------------------------- */
 .folio-item:hover .folio-item__thumb::before {
@@ -4184,6 +4187,20 @@ button.btn--pill {
   transform: scale(1.05);
 }
 
+/* .titleI {
+  margin-top: 2;
+  /* max-width: fit-content; */
+
+.titleI {
+  margin-top: 80px;
+}
+/* .la {
+  height: 200px;
+} */
+.la {
+  max-height: fit-content;
+  height: 500px;
+}
 /* ------------------------------------------------------------------- 
  * ## modal popup
  * ------------------------------------------------------------------- */

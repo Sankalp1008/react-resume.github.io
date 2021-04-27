@@ -16,7 +16,7 @@ export default class Resume extends Component {
                                     <p className="resume-block__header-meta">
                                         <span>Jr. Frontend Developer</span>
                                         <span className="resume-block__header-date">
-                                            August 2020 - Present
+                                            August 2019 - Present
                   </span>
                                     </p>
                                 </div>
