@@ -14,8 +14,7 @@ export default class Portfolio extends Component {
                         <div className="column folio-item">
                             
                             <a href="#modal-01" className="folio-item__thumb">
-                                <img src="images/portfolio/droplet.jpg" srcSet="images/portfolio/droplet.jpg 1x, 
-                                 images/portfolio/droplet@2x.jpg 2x" alt="" />
+                                <img src="images/portfolio/droplet.jpg"  alt="" />
                             </a>
                             <h6 ><strong>Charity-Moments New-york </strong></h6>
                         </div> {/* end folio-item */}
@@ -40,36 +39,7 @@ export default class Portfolio extends Component {
                             <h6><strong>EYT Eesti OÜ website</strong></h6>
                         </div> {/* end folio-item */}
                     </div>
-                    
-                    <div>
-                        <div id="modal-01" hidden>
-                            <div className="modal-popup">
-                                <img src="images/portfolio/gallery/g-droplet.jpg" alt="" />
-                                <div className="modal-popup__desc">
-                                    <h5>Droplet</h5>
-                                    <p>Odio soluta enim quos sit asperiores rerum rerum repudiandae cum. Vel voluptatem alias qui assumenda iure et expedita voluptatem. Ratione officiis quae.</p>
-                                    <ul className="modal-popup__cat">
-                                        <li>Branding</li>
-                                        <li>Product Design</li>
-                                    </ul>
-                                </div>
-                                <a href="https://www.behance.net/" className="modal-popup__details">Project link</a>
-                            </div>
-                        </div> {/* end modal */}
-                        <div id="modal-02" hidden>
-                            <div className="modal-popup">
-                                <img src="images/portfolio/gallery/g-lamp.jpg" alt="" />
-                                <div className="modal-popup__desc">
-                                    <h5>The Lamp</h5>
-                                    <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
-                                    <ul className="modal-popup__cat">
-                                        <li>Branding</li>
-                                    </ul>
-                                </div>
-                                <a href="https://www.behance.net/" className="modal-popup__details">Project link</a>
-                            </div>
-                        </div> {/* end modal */}
-                    </div>
+                  
                     </section>
 
 
