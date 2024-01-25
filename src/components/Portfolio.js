@@ -10,13 +10,21 @@ export default class Portfolio extends Component {
                             <h3>A few of my Professional Projects </h3>
                         </div>
                     </div>
-                    <div className="row collapse block-large-1-4 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
+                    <div className="row collapse block-large-1-3 block-medium-1-3 block-tab-1-2 block-500-stack folio-list">
                     <div className="column folio-item">
                             
                             <a href="https://justmyroots.com/" className="folio-item__thumb">
                                 <img src="images/portfolio/956x538-logo.png"  alt="" />
                             </a>
                             <h6 ><strong>JustMyRoots </strong></h6>
+                        </div>
+
+                        <div className="column folio-item">
+                            
+                            <a href="https://justmyroots.com/hot" className="folio-item__thumb">
+                                <img style={{height:180 , width:400}} src="images/portfolio/956-size.png"  alt="" />
+                            </a>
+                            <h6 ><strong>JustMyRoots HOT </strong></h6>
                         </div>
 
                         <div className="column folio-item">

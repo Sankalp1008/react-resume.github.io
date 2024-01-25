@@ -26,7 +26,10 @@ export default class Resume extends Component {
                                 <p className="exp">
                                 Currently handling the responsibility of new productions, maintenance, bug fixings and deployment operations as a Frontend Developer.
                                 Using React along with Redux-Saga for data fetching, UI libraries such as Material UI and Ant Design to develop more efficiently with high quality and responsive components, React-Router to manage different React component path location, used GitHub to conduct modern distributed source code management.
-                                My projects at JustMyRoots include - Order Tracking Management System , Voucher Management System, User Cart , User Authentication etc.
+                                My projects at JustMyRoots include - Order Tracking Management System , Voucher Management System, User Cart , User Authentication , Payment Gateway Integration etc.
+                                <br/> Also Developed a feature-rich eCommerce platform <b>JustMyRoots-Hot</b> using React.js and Redux-Saga.
+Implemented user authentication, product catalog, shopping cart functionality, and secure payment gateways.
+Utilized Material-UI components to ensure a consistent and visually appealing user interface.
                                     
                                     {/* Worked as an Frontend developer Intern, learnt and worked on frameworks like React and Angular,developing web and native applications.
                                     Also worked as a QA Tester on various projects by maintaining compatibility with backend as well as the frontend developers. <br/>
